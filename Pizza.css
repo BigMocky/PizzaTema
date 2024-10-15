@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+}
+header{
+    background-image: url(Keppek/Vagottpizza.jpg);
+    color: white;
+    width: 100%;
+    margin: auto;
+    height: 600px;
+
+}
+
+h1{
+    color: white;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin: auto;
+    float: right;
+    padding-right: 30px;
+
+    
+}
+
+a:hover{
+    background-color: rgba(247, 247, 26, 0.568);
+}
