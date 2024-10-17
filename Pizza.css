@@ -18,7 +18,7 @@ h1{
 }
 
 a{
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     margin: auto;
     float: right;
@@ -29,4 +29,21 @@ a{
 
 a:hover{
     background-color: rgba(247, 247, 26, 0.568);
+}
+
+#piadina{
+    color: #ccc;
+    background-color: lightslategray;
+}
+
+#specialitas{
+
+}
+
+#menu{
+
+}
+
+#info{
+
 }
