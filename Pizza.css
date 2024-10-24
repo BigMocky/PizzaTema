@@ -1,12 +1,14 @@
 body{
-    margin: auto;
+    margin: 0%;
 }
 header{
     background-image: url(Keppek/Vagottpizza.jpg);
+
+    background-position: center;
     color: white;
     width: 100%;
-    margin: auto;
     height: 600px;
+    background-size: 115% ;
 
 }
 
@@ -15,25 +17,23 @@ h1{
     margin: auto;
     padding-top: 50px;
     padding-left: 30px;
+    text-shadow: black;
 }
 
-a{
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    margin: auto;
-    float: right;
-    padding-right: 30px;
 
-    
+a{
+    color: #ccc;
+    text-decoration: none;
+
 }
 
 a:hover{
-    background-color: rgba(247, 247, 26, 0.568);
+    color: white;
 }
 
 #piadina{
     color: #ccc;
-    background-color: lightslategray;
+    background-color:rgb(59, 58, 58);
 }
 
 #specialitas{
@@ -46,4 +46,15 @@ a:hover{
 
 #info{
 
+}
+p{
+    font-size: 25px;
+}
+#fmenu{
+    float: right;
+    color: #ccc;
+    float: right;
+    padding-right: 14px;
+    font-size: 15px;
+    padding-top: 0%;
 }
