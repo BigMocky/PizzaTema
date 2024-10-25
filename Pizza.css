@@ -48,13 +48,25 @@ a:hover{
 
 }
 p{
-    font-size: 25px;
+    font-size: 17px;
 }
 #fmenu{
     float: right;
     color: #ccc;
     float: right;
     padding-right: 14px;
-    font-size: 15px;
+    font-size: 14px;
     padding-top: 0%;
+}
+
+#pp_table{
+    margin-left: auto;
+    margin-right: auto;
+}
+#pp{
+
+}
+
+#pp_sz{
+    
 }
