@@ -33,7 +33,8 @@ a:hover{
 
 #piadina{
     color: #ccc;
-    background-color:rgb(59, 58, 58);
+    background-color:rgb(32, 29, 29);
+    height: 300px;
 }
 
 #specialitas{
@@ -48,7 +49,7 @@ a:hover{
 
 }
 p{
-    font-size: 17px;
+    font-size: 19px;
 }
 #fmenu{
     float: right;
@@ -64,9 +65,23 @@ p{
     margin-right: auto;
 }
 #pp{
+    padding-left: 60px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+}
+#Tor{
+    padding-left: 130px;
 
 }
 
 #pp_sz{
-    
+    padding-top: 40px;
+    padding-right: 70px;
 }
+
+.menu{
+    background-color: #141313;
+    color: #ccc;
+    margin: auto;
+}
+
