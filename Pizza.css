@@ -37,17 +37,6 @@ a:hover{
     height: 300px;
 }
 
-#specialitas{
-
-}
-
-#menu{
-
-}
-
-#info{
-
-}
 p{
     font-size: 19px;
 }
@@ -60,28 +49,44 @@ p{
     padding-top: 0%;
 }
 
-#pp_table{
+#pp_div{
     margin-left: auto;
     margin-right: auto;
+    height: auto;
 }
 #pp{
     padding-left: 60px;
     padding-right: 40px;
     padding-bottom: 60px;
+    width: 45%;
 }
-#Tor{
-    padding-left: 130px;
+.cimp{
+    padding-left: 160px;
+    padding-top: 100px;
+    width: 25%;
+    margin: 0%;
+}
+#tor{
+    padding-left: 290px;
+    width: 10%;
 
 }
+
 
 #pp_sz{
     padding-top: 40px;
-    padding-right: 70px;
+    
+    margin-left: 400px;
+    margin-top: -150px;
+
+
 }
 
 .menu{
     background-color: #141313;
     color: #ccc;
     margin: auto;
+    text-align: center;
+
 }
 
