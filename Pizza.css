@@ -87,6 +87,28 @@ p{
     color: #ccc;
     margin: auto;
     text-align: center;
+    height: 400px;
+
+}
+.PMI{
+
+    border: solid 2px ;
+    border-color: #ccc;
+    font-size: 25px;
+
+    margin-left:50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 17px ;
+    padding-bottom: 17px;
+
+}
+#specialitas{
+    background-color: rgb(32, 29, 29);
+    height: 600px;
 
 }
 
