@@ -108,7 +108,7 @@ p{
 }
 #specialitas{
     background-color: rgb(32, 29, 29);
-    height: 1300px;
+    height: 1000px;
 
 }
 
@@ -192,4 +192,39 @@ p{
     text-align: center;
     bottom: 20%;
 }
+
+
+#info{
+background-color:  #141313;
+}
+
+#infoc{
+    padding-left: 350px;
+    padding-top: 100px;
+    width: 25%;
+    margin: 0%;
+}
+#nyitva{
+    padding-left: 700px;
+    color: #ccc;
+
+}
+#nyitvanyitva{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: #141313 ;
+    margin-top: 0%;
+    border-top: white solid 2px;
+    padding-top: 50px;
+    height: 100px;
     
+}
+#info_F{
+    margin: 0%;
+    height: 100px;
+    background-color: #141313;;
+}
