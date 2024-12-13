@@ -1,17 +1,21 @@
+/*Egesz oldaloas dolgok*/
 body{
     margin: 0%;
+    background-color:rgb(51, 51, 51);
 }
 header{
     background-image: url(Keppek/Vagottpizza.jpg);
 
     background-position: center;
-    color: white;
+    color: #ffffff;
     width: 100%;
     height: 600px;
     background-size: 115% ;
 
 }
-
+p{
+    font-size: 19px;
+}
 h1{
     color: white;
     margin: auto;
@@ -19,27 +23,41 @@ h1{
     padding-left: 30px;
     text-shadow: black;
 }
-
-
 a{
     color: #ccc;
     text-decoration: none;
 
 }
-
 a:hover{
     color: white;
 }
 
+
+/*piadina*/
 #piadina{
     color: #ccc;
-    background-color:rgb(32, 29, 29);
+    background-color:rgb(51, 51, 51);
     height: 300px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+
+    
+}
+#p_cim{
+
+    width: 35%;
+    float:left;
+    text-align: right;
+}
+#p_szoveg{
+    width: 60%;
+    float: right;
+    text-align: left;
 }
 
-p{
-    font-size: 19px;
-}
+
+/*Menü*/
 #fmenu{
     float: right;
     color: #ccc;
@@ -49,41 +67,9 @@ p{
     padding-top: 0%;
 }
 
-#pp_div{
-    margin-left: auto;
-    margin-right: auto;
-    height: auto;
-}
-#pp{
-    padding-left: 60px;
-    padding-right: 40px;
-    padding-bottom: 60px;
-    width: 45%;
-}
-.cimp{
-    padding-left: 160px;
-    padding-top: 100px;
-    width: 25%;
-    margin: 0%;
-}
-#tor{
-    padding-left: 290px;
-    width: 10%;
-
-}
-
-
-#pp_sz{
-    padding-top: 40px;
-    
-    margin-left: 400px;
-    margin-top: -150px;
-
-
-}
-
-.menu{
+#menu{
     background-color: #141313;
+    margin-top: 50px;
     color: #ccc;
     margin: auto;
     text-align: center;
